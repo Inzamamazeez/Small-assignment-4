@@ -1,0 +1,20 @@
+* {
+    background-color: rgb(233, 240, 224);
+}
+.form_container {
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    gap: 30px;
+}
+.form_container input {
+    width: 30vw;
+    height: 5vh;
+    border-radius: 10px;
+}
+.form_container button {
+    width: 10vw;
+    height: 5vh;
+    border-radius: 10px;
+    font-size: large;
+}
